@@ -1,0 +1,19 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+env/
+latest_env/
+.latest_env/
+
+# Ignore large datasets (optional)
+*.csv
+*.zip
+
+# Ignore system files
+.DS_Store
+
+# Ignore environment config
+.env
