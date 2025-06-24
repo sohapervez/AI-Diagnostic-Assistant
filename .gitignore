@@ -9,7 +9,6 @@ latest_env/
 .latest_env/
 
 # Ignore large datasets (optional)
-*.csv
 *.zip
 
 # Ignore system files
